@@ -10,6 +10,7 @@ STEPS TO RUN:
 2.Open the project in an IDE.
 3.Create a virtual environment.
 4.Install all the prerequisite modules(requirements.txt)
-5.Run the main.py file.
+5.Add a dnn model.
+6.Run the main.py file.
 
 note:-You can change the timing of traffc light flow based on the calculated data of how much a vehicle take to cross the junction.
